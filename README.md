@@ -1,37 +1,53 @@
-# Olá, sou o Lineker! 👋
+<h1 align="center">👋 Olá, eu sou o Lineker!</h1>
 
-Sou desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre buscando aprender novas linguagens e frameworks para aprimorar minhas habilidades e criar soluções eficientes. Atualmente, estou focado em backend com Java (Spring Boot) e frontend com React Native. Além disso, adoro explorar novas ferramentas e técnicas para otimizar o desenvolvimento de aplicativos.
+<p align="center">
+  💻 Desenvolvedor full stack apaixonado por tecnologia, código limpo e soluções criativas.  
+  <br/>
+  🚀 Focado em construir apps eficientes com <strong>Java + Spring Boot</strong> no backend e <strong>React Native</strong> no frontend.
+</p>
 
-## 🚀 Tecnologias e Ferramentas
-- **Backend**: Java, Spring Boot
-- **Frontend**: React, React Native
-- **Banco de Dados**: PostgreSQL
-- **Versionamento**: Git, GitHub
-- **DevOps**: Docker, Docker Compose
-- **Outras ferramentas**: iText, JPA, TypeScript, Node.js, etc.
+---
 
-## 📂 Meus Projetos
-Aqui estão alguns dos meus projetos:
+### 🛠️ Tecnologias & Ferramentas
 
-### [LOOL - Gerenciamento de Tarefas e Ordens de Serviço](https://github.com/jucaodamontanha/Basic_backend)
-Um app para gerenciar tarefas e gerar ordens de serviço digitais, com funcionalidades para cadastrar usuários como supervisores e técnicos.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### [Projeto de Planejamento Alimentar](https://github.com/jucaodamontanha/Plano-Alimentar)
-App para criar planos alimentares diários, com opções personalizáveis e integração com uma API para obter alimentos e suas propriedades nutricionais.
+---
 
-### [App de Marcação de Ponto](https://github.com/jucaodamontanha/PontoCerto)
-Sistema de marcação de ponto para funcionários com autenticação baseada em roles (ADMIN, GESTOR) e integração com PostgreSQL para armazenamento de dados.
+### 📂 Projetos em Destaque
 
-## 💼 Experiência Profissional
-- **Desenvolvedor Backend** na Ong [Pipoca Agil]
-- **Desenvolvedor Frontend** na Ong [Pipoca Agil]
+🔧 [**LOOL**](https://github.com/jucaodamontanha/Basic_backend)  
+Sistema completo de gerenciamento de tarefas e ordens de serviço com perfis de usuário (técnico/supervisor).
 
-## 📬 Vamos conversar!
-- LinkedIn: (https://www.linkedin.com/in/lineker-henrique-xavier-3a568717b)
-- Email: (mailto:eng.linekerx@gmail.com)
+🥗 [**Plano Alimentar**](https://github.com/jucaodamontanha/Plano-Alimentar)  
+Criação de refeições personalizadas com API de alimentos e foco em planejamento diário.
 
-## 📈 Estatísticas do GitHub
+🕒 [**App de Marcação de Ponto**](https://github.com/jucaodamontanha/PontoCerto)  
+Sistema de registro de ponto com autenticação por roles (ADMIN, GESTOR), Docker e Spring Security.
 
-![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=jucaodamontanha&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucaodamontanha&hide_progress=true)
+---
 
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jucaodamontanha&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucaodamontanha&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lineker-henrique-xavier-3a568717b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTNDkn0jVTviklIrwe0XlKg%3D%3D)  
+- 📧 [Email](mailto:eng.linekerx@gmail.com)
+
+---
+
+<p align="center">
+  Feito com ❤️ por <strong>@jucaodamontanha</strong>
+</p>
